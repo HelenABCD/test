@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 
 int main() {
-	std::cout << "CCCCCCC123" << std::endl;
+	std::cout << "vector_utils" << std::endl;
 	return 0;
 }
