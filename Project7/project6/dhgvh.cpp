@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 
 int main() {
-	std::cout << "CCCCCCC111" << std::endl;
+	std::cout << "CCCCCCC123" << std::endl;
 	return 0;
 }
